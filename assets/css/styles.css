@@ -78,8 +78,8 @@ header #navigation {
     position: absolute;
     bottom: 0;
     right: 0;
-    width: 33vw;
-    height: 28vw;
+    width: 50vw;
+    height: 25vw;
     background: var(--verde);
     border-top-right-radius: 25vw;
     border-top-left-radius: 25vw;
@@ -113,10 +113,10 @@ header #navigation {
     letter-spacing: 0.05em;
 }
 
-#home .rodrigo {
+#home .juliana {
     position: absolute;
     bottom: 0;
-    right: 100px;
+    right: 160px;
     min-height: 90vh;
 }
 
