@@ -59,7 +59,7 @@ header #navigation {
 
 #navigation .focus,
 #navigation li:hover a {
-    color: var(--verde);
+    color: var(--marrom);
 }
 
 #home {
