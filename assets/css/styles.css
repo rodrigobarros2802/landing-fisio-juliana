@@ -120,6 +120,26 @@ header #navigation {
     min-height: 90vh;
 }
 
+.btn-fixed {
+    position: fixed;
+    right: 30px;
+    bottom: 20px;
+    visibility: visible;
+}
+
+.btn-fixed ion-icon {
+    font-size: 50px;
+    font-weight: 800;
+    color: var(--branco);
+    border: 1px solid var(--branco);
+    border-radius: 10px;
+    background: var(--preto);
+}
+
+.btn-fixed.visible {
+    visibility: visible;
+}
+
 #services, #portfolio, #contact {
     position: relative;
     background: var(--cinza-claro);
