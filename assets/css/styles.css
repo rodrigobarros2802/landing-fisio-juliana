@@ -142,7 +142,7 @@ header #navigation {
     visibility: visible;
 }
 
-#services, #portfolio, #contact {
+#services, #portfolio, #contact, #depoiments {
     position: relative;
     background: var(--cinza-claro);
     min-height: 100vh;
@@ -317,4 +317,22 @@ header #navigation {
     font-weight: 700;
 }
 
+#depoiments .content {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
 
+#depoiments .content h2 {
+    font-size: 3em;
+    color: var(--branco);
+}
+
+#depoiments .content p {
+    font-size: 1.1em;
+    color: var(--cinza);
+    max-width: 700px;
+    line-height: 1.5em;
+}
