@@ -336,3 +336,10 @@ header #navigation {
     max-width: 700px;
     line-height: 1.5em;
 }
+
+#depoiments .depoimentsBx {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin: 40px 0;
+    grid-gap: 20px;
+}
