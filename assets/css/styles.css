@@ -290,12 +290,12 @@ header #navigation {
 }
 
 #contact .content-box a ion-icon {
-    color: var(--verde);
+    color: var(--marrom);
     margin-right: 10px;
 }
 
 #contact .content-box a:hover {
-    background: var(--verde);
+    background: var(--marrom);
     color: var(--preto);
 }
 
@@ -311,8 +311,9 @@ header #navigation {
 }
 
 .copyrights a {
-    color: var(--verde);
+    color: var(--marrom);
     text-decoration: none;
+    font-weight: 700;
 }
 
 
