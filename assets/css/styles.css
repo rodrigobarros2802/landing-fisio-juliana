@@ -53,7 +53,7 @@ header #navigation {
 #navigation li a {
     text-decoration: none;
     color: var(--branco);
-    font-weight: 700;
+    font-weight: 800;
     font-size: 1.1em;
 }
 
@@ -107,11 +107,12 @@ header #navigation {
 
 #home .text-box .btn {
     text-decoration: none;
-    color: var(--preto);
+    color: var(--branco);
     background: var(--marrom);
     padding: 15px 50px;
     font-weight: 600;
     letter-spacing: 0.05em;
+    font-weight: 700;
 }
 
 #home .juliana {
@@ -212,10 +213,10 @@ header #navigation {
 
 .center .btn {
     text-decoration: none;
-    color: var(--preto);
+    color: var(--branco);
     background: var(--marrom);
     padding: 15px 50px;
-    font-weight: 600;
+    font-weight: 700;
     letter-spacing: 0.05em;
 }
 
@@ -285,7 +286,7 @@ header #navigation {
     justify-content: center;
     align-items: center;
     text-decoration: none;
-    font-weight: 500;
+    font-weight: 700;
     font-size: 1.1em;
 }
 
