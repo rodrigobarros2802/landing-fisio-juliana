@@ -15,6 +15,7 @@
     --cinza: #aaa;
     --verde: #30fe6c;
     --branco: #fff;
+    --marrom: #ba5a42;
 }
 
 header {
@@ -80,7 +81,7 @@ header #navigation {
     right: 0;
     width: 50vw;
     height: 25vw;
-    background: var(--verde);
+    background: var(--marrom);
     border-top-right-radius: 25vw;
     border-top-left-radius: 25vw;
 
@@ -92,7 +93,7 @@ header #navigation {
 }
 
 #home .text-box h1 {
-    color: var(--verde);
+    color: var(--marrom);
     font-size: 4em;
 }
 
@@ -107,7 +108,7 @@ header #navigation {
 #home .text-box .btn {
     text-decoration: none;
     color: var(--preto);
-    background: var(--verde);
+    background: var(--marrom);
     padding: 15px 50px;
     font-weight: 600;
     letter-spacing: 0.05em;
@@ -191,7 +192,7 @@ header #navigation {
 }
 
 #services .content-bx:hover {
-    border: 2px solid var(--verde);
+    border: 2px solid var(--marrom);
 }
 
 #services .content-bx img {
@@ -206,13 +207,13 @@ header #navigation {
 }
 
 #services .content-bx h3 {
-    color: var(--verde);
+    color: var(--marrom);
 }
 
 .center .btn {
     text-decoration: none;
     color: var(--preto);
-    background: var(--verde);
+    background: var(--marrom);
     padding: 15px 50px;
     font-weight: 600;
     letter-spacing: 0.05em;
