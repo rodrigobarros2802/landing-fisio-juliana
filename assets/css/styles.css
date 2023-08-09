@@ -126,7 +126,7 @@ header #navigation {
     position: fixed;
     right: 30px;
     bottom: 20px;
-    visibility: visible;
+    visibility: hidden;
 }
 
 .btn-fixed ion-icon {
