@@ -356,11 +356,10 @@ header #navigation {
 
 #contact .content-box a:hover {
     background: var(--marrom);
-    color: var(--preto);
 }
 
 #contact .content-box a:hover ion-icon {
-    color: var(--preto);
+    color: var(--branco);
 }
 
 .copyrights {
