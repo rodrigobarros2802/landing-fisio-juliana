@@ -289,6 +289,8 @@ header #navigation {
     background: var(--branco);
     padding: 20px;
     text-align: center;
+    border: none;
+    box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.1);
 }
 
 .depoimentsBx .feedbackBx p {
