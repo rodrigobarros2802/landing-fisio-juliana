@@ -209,6 +209,13 @@ header #navigation {
 
 #services .content-bx h3 {
     color: var(--branco);
+    opacity: 0.5;
+    transition: 0.5s;
+}
+
+#services .content-bx:hover h3 {
+    opacity: 1;
+    
 }
 
 .center .btn {
