@@ -279,19 +279,24 @@ header #navigation {
 }
 
 .depoimentsBx .feedbackBx {
-    background: var(--preto);
-    padding: 100px;
+    background: var(--branco);
+    padding: 20px;
     text-align: center;
 }
 
 .depoimentsBx .feedbackBx p {
-    color: var(--branco);
+    color: var(--marrom);
     font-size: 14px;
-    font-weight: 400;
+    font-weight: 500;
 }
 
 .feedbackBx .paciente {
     margin: 20px;
+}
+
+.feedbackBx .paciente span {
+    color: var(--marrom);
+    font-weight: 700;
 }
 
 .depoimentsBx .feedbackBx img {
