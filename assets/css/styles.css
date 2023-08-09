@@ -286,6 +286,8 @@ header #navigation {
 
 .depoimentsBx .feedbackBx p {
     color: var(--branco);
+    font-size: 14px;
+    font-weight: 400;
 }
 
 #contact .content {
