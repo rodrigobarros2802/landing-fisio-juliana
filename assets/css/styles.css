@@ -290,8 +290,11 @@ header #navigation {
     font-weight: 400;
 }
 
+.feedbackBx .paciente {
+    margin: 20px;
+}
+
 .depoimentsBx .feedbackBx img {
-    margin-top: 20px;
     width: 100px;
 }
 
