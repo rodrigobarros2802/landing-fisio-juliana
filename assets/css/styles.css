@@ -136,16 +136,18 @@ header #navigation {
     justify-content: center;
     align-items: center;
     padding: 20px;
-    border-radius: 40px;
+    border-radius: 10px;
     border: none;
     border: 1px solid var(--branco);
     font-weight: 500;
     cursor: pointer;
     visibility: hidden;
+    transition: 0.1s;
 }
 
 .btn-fixed.visible {
     visibility: visible;
+    transition: 0.5s;
 }
 
 #services, #portfolio, #contact, #depoiments {
