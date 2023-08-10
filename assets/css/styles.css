@@ -140,6 +140,8 @@ header #navigation {
     border: none;
     border: 1px solid var(--branco);
     font-weight: 500;
+    cursor: pointer;
+    visibility: hidden;
 }
 
 .btn-fixed.visible {
