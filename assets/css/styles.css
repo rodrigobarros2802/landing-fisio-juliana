@@ -162,6 +162,10 @@ header #navigation {
     text-align: center;
 }
 
+#about {
+    background: var(--cinza-escuro);
+}
+
 #services .content {
     position: relative;
     display: flex;
