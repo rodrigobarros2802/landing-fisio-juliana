@@ -189,6 +189,15 @@ header #navigation {
     gap: 30px;
 }
 
+.about-content p {
+    color: var(--cinza);
+    font-size: 18px;
+    line-height: 1.5;
+    font-weight: 400;
+    text-align: left;
+    padding: 10px;
+}
+
 #services .content {
     position: relative;
     display: flex;
