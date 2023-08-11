@@ -162,10 +162,6 @@ header #navigation {
     text-align: center;
 }
 
-#about {
-    background: var(--cinza-escuro);
-}
-
 #about .about-box {
     position: relative;
     display: flex;
@@ -225,15 +221,19 @@ header #navigation {
     grid-gap: 20px;
 }
 
+#services, #pacientes, #contact {
+    background: var(--cinza-escuro);
+}
+
 #services .content-bx {
     padding: 30px 50px;
-    background: var(--cinza-escuro);
+    background: var(--cinza-claro);
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     gap: 20px;
-    border: 2px solid var(--cinza-escuro);
+    border: 2px solid var(--cinza-claro);
 }
 
 #services .content-bx:hover {
@@ -259,7 +259,6 @@ header #navigation {
 
 #services .content-bx:hover h3 {
     opacity: 1;
-    
 }
 
 .center .btn {
@@ -269,10 +268,6 @@ header #navigation {
     padding: 15px 50px;
     font-weight: 700;
     letter-spacing: 0.05em;
-}
-
-#portfolio {
-    background: var(--cinza-escuro);
 }
 
 #portfolio .content, #pacientes .content {
@@ -384,7 +379,7 @@ header #navigation {
 }
 
 #contact .content-box a {
-    background: var(--cinza-escuro);
+    background: var(--cinza-claro);
     padding: 30px 10px;
     color: var(--branco);
     display: flex;
