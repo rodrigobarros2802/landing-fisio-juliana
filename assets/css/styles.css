@@ -302,6 +302,14 @@ header #navigation {
     gap: 20px;
 }
 
+#pacientes .content {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
 #depoiments .content {
     position: relative;
     display: flex;
