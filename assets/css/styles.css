@@ -84,7 +84,6 @@ header #navigation {
     background: var(--marrom);
     border-top-right-radius: 25vw;
     border-top-left-radius: 25vw;
-
 }
 
 #home .text-box {
@@ -415,5 +414,3 @@ header #navigation {
     text-decoration: none;
     font-weight: 700;
 }
-
-
