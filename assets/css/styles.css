@@ -150,7 +150,7 @@ header #navigation {
     transition: 0.5s;
 }
 
-#services, #portfolio, #contact, #depoiments, #about {
+#services, #portfolio, #contact, #depoiments, #about, #pacientes {
     position: relative;
     background: var(--cinza-claro);
     min-height: 100vh;
