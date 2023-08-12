@@ -414,3 +414,7 @@ header #navigation {
     text-decoration: none;
     font-weight: 700;
 }
+
+.copyrights a:hover {
+    text-decoration: underline;
+}
