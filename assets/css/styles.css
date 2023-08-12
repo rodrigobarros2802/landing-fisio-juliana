@@ -126,8 +126,6 @@ header #navigation {
     right: 30px;
     bottom: 20px;
     font-size: 30px;
-    background: var(--preto);
-    color: var(--branco);
     width: 40px;
     height: 40px;
     text-align: center;
@@ -137,11 +135,17 @@ header #navigation {
     padding: 20px;
     border-radius: 10px;
     border: none;
-    border: 1px solid var(--branco);
+    border: 2px solid var(--preto);
     font-weight: 500;
     cursor: pointer;
     visibility: hidden;
     transition: 0.1s;
+}
+
+.btn-fixed ion-icon {
+    color: var(--preto);
+    position: absolute;
+    font-weight: 900;
 }
 
 .btn-fixed.visible {
