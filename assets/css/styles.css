@@ -136,7 +136,6 @@ header #navigation {
     border-radius: 10px;
     border: none;
     border: 2px solid var(--preto);
-    font-weight: 500;
     cursor: pointer;
     visibility: hidden;
     transition: 0.1s;
