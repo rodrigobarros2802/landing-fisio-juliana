@@ -221,6 +221,7 @@ header #navigation {
     grid-template-columns: repeat(4,1fr);
     margin: 40px 0;
     grid-gap: 20px;
+    cursor: pointer;
 }
 
 #services, #pacientes, #contact {
