@@ -300,6 +300,12 @@ header #navigation {
     gap: 20px;
 }
 
+#portfolio .content-box .img-bx img, #pacientes .content-box .img-bx img {
+    cursor: pointer;
+}
+
+
+
 #depoiments .content {
     position: relative;
     display: flex;
