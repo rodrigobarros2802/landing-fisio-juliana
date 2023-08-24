@@ -428,8 +428,9 @@ header #navigation {
 }
 
 /* Responsividade 991px */
-@media screen (max-width: 991px) {
+@media (max-width: 991px) {
     #logo {
-        
+        display: none;
     }
 }
+   
