@@ -426,3 +426,10 @@ header #navigation {
 .copyrights a:hover {
     text-decoration: underline;
 }
+
+/* Responsividade 991px */
+@media screen (max-width: 991px) {
+    #logo {
+        
+    }
+}
