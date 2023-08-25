@@ -427,10 +427,4 @@ header #navigation {
     text-decoration: underline;
 }
 
-/* Responsividade 991px */
-@media (max-width: 991px) {
-    #logo {
-        display: none;
-    }
-}
    
