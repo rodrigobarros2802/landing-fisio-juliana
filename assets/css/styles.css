@@ -388,7 +388,7 @@ header #navigation {
 #contact .content-box a {
     background: var(--cinza-claro);
     padding: 30px 10px;
-    color: var(--branco);
+    color: var(--marrom);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -404,6 +404,7 @@ header #navigation {
 
 #contact .content-box a:hover {
     background: var(--marrom);
+    color: var(--branco);
 }
 
 #contact .content-box a:hover ion-icon {
