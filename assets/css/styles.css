@@ -306,7 +306,6 @@ header #navigation {
 
 .content-box img {
     opacity: 0.7;
-    transform: scale(1);
 }
 
 .content-box img:hover {
