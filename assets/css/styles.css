@@ -304,6 +304,17 @@ header #navigation {
     cursor: pointer;
 }
 
+.content-box img {
+    opacity: 0.7;
+    transform: scale(1);
+}
+
+.content-box img:hover {
+    transform: scale(1.08);
+    transition: 0.9s;
+    opacity: 1;
+}
+
 #depoiments .content {
     position: relative;
     display: flex;
